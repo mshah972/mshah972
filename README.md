@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Moksh Shah.
-- 👀 I’m interested in becoming a Software Engineer.
+- 👀 I’m interested in becoming a Software Engineer/Machine Learning.
 - 🌱 I’m currently learning Computer Science.
 - 📫 You can reach me on Insta: @smoksh97, and my email: smoksh17@gmail.com.
 
