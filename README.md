@@ -3,7 +3,7 @@
 ![GitHub Created At](https://img.shields.io/github/created-at/mshah972/mshah972)
 ![Visits Badge](https://badges.pufler.dev/visits/mshah972/badge-it)
 ![Years Badge](https://badges.pufler.dev/years/mshah972)
-![Updated Badge](https://badges.pufler.dev/updated/mshah972/mshah972)
+![Updated Badge](https://badges.pufler.dev/updated/mshah972/mshah972/)
 
 
 Welcome to my GitHub profile! I’m passionate about technology, coding, artificial intelligence and continuous learning. Here you’ll find a collection of my projects, contributions, and anything else I’m working on.
